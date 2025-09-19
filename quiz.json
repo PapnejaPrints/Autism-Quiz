@@ -1,0 +1,30 @@
+{
+  "quizTitle": "Autism Spectrum Vibe Quiz",
+  "instructions": "This is NOT a diagnosis. It’s a reflective quiz inspired by common autism questionnaires, for fun only.",
+  "scale": {
+    "options": [
+      { "label": "Strongly Disagree", "value": 1 },
+      { "label": "Disagree", "value": 2 },
+      { "label": "Agree", "value": 3 },
+      { "label": "Strongly Agree", "value": 4 }
+    ],
+    "interpretation": {
+      "10-18": "Mostly neurotypical vibes",
+      "19-27": "Some autistic traits",
+      "28-36": "Lots of autistic traits",
+      "37-40": "Super strong autism vibes — but remember, this is just for fun!"
+    }
+  },
+  "questions": [
+    { "id": 1, "text": "I prefer routines and feel stressed when plans suddenly change." },
+    { "id": 2, "text": "I sometimes miss social cues, like sarcasm or hints." },
+    { "id": 3, "text": "I can spend hours diving into my special interests without getting bored." },
+    { "id": 4, "text": "I find small talk awkward or tiring." },
+    { "id": 5, "text": "Bright lights, loud noises, or strong textures can overwhelm me." },
+    { "id": 6, "text": "I’d rather text or type than talk face-to-face." },
+    { "id": 7, "text": "I enjoy organizing, categorizing, or collecting things." },
+    { "id": 8, "text": "I often notice tiny details that others don’t." },
+    { "id": 9, "text": "I sometimes repeat phrases, movements, or sounds when stressed." },
+    { "id": 10, "text": "I find making or keeping friends harder than others seem to." }
+  ]
+}
